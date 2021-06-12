@@ -4,7 +4,6 @@ In this programming assignment, you are going to implement your very own linux s
 <br><br>
 	
 <p align="center"><b>Features of Shell</b><p>
-<br>
 	
 *Environment*
 
