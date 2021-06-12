@@ -218,6 +218,7 @@ In this assignment you will design a simple shell which implements a subset of t
 <br>
 
 7. Background processes: **10 points**
+	
 	1.  
 		```bash 
 		sleep 1 &
