@@ -178,6 +178,7 @@ In this assignment you will design a simple shell which implements a subset of t
 
 	If they do not have the last part (i.e., input output redirection in the same line), deduct 5 points
 <br>
+	
 4. *Single pipe* **(10 pts)**:
 
 	Any single pipe command
