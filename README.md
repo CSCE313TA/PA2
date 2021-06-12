@@ -1,8 +1,9 @@
 # <p align="center">PA2: Implementing a Linux Shell<p>
 
 In this programming assignment, you are going to implement your very own linux shell. Your shell should have the ability to function almost as much as the linux/ubuntu shell in your OS, which lets a user navigate through the file system and perform a wide variety of tasks using a series of easy to remember and simple commands. Please take a look at this [website](https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/) for some interesting and commonly used linux commands.
-
-**Features of Shell**
+<br>
+	
+<p align="center"><b>Features of Shell</b><p>
 
 *Environment*
 
