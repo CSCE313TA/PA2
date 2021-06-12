@@ -99,6 +99,7 @@ In this assignment you will design a simple shell which implements a subset of t
 7.  Allow directory handling commands (e.g., pwd, cd). Note that some of these commands are not recognized by the **exec()** functions because there are no executables by the same name. These are some additional shell features that must be implemented using system calls instead of forwarding to **`exec()`**.
 8.  Print a custom prompt to be shown before taking each command. This should include your user name and current date-time
 <br>
+	
 9.  ***Bonus**: Allow $-sign expansion. See the last command in the grading instructions command list in the following* 
 
 ---
